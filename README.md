@@ -1,0 +1,4 @@
+python-rosetta
+==============
+
+python exercises
